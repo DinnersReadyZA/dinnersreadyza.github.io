@@ -23,6 +23,7 @@ twitter_username: username
 github_username: DinnersReadyZA
 minimal_mistakes_skin: dark
 search: true
+url: https://dinnersreadyza.github.io
 
 # Build settings
 markdown: kramdown
@@ -58,7 +59,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Dinners Ready"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
